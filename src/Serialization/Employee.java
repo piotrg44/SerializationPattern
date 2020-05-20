@@ -1,4 +1,4 @@
-package Serializacja;
+package Serialization;
 
 public class Employee {
     private String firstName;

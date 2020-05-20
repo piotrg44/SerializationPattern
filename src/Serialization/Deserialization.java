@@ -1,4 +1,4 @@
-package Serializacja;
+package Serialization;
 
 import javax.xml.bind.JAXB;
 import java.io.BufferedReader;
